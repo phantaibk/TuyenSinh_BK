@@ -1,0 +1,14 @@
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\bin\Debug\TuyenSinhBK.exe.config
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\bin\Debug\TuyenSinhBK.exe
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\bin\Debug\TuyenSinhBK.pdb
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\obj\Debug\TuyenSinhBK.csprojResolveAssemblyReference.cache
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\obj\Debug\TuyenSinhBK.exe
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\obj\Debug\TuyenSinhBK.pdb
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\bin\Debug\EntityFramework.dll
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\bin\Debug\System.Data.SQLite.dll
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\bin\Debug\System.Data.SQLite.EF6.dll
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\bin\Debug\System.Data.SQLite.Linq.dll
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\bin\Debug\EntityFramework.xml
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\20151_Lập trình HĐT\TuyenSinhBK\TuyenSinhBK\bin\Debug\System.Data.SQLite.xml
